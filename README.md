@@ -8,7 +8,7 @@ A check list for making a pull request.
 - Put Documentation on ticket or wiki
   - Explain what the feature does
   - Explain what the code is doing 
--Check for linting or console errors
+- Check for linting or console errors
 - Is code formatted properly?
 - Assess order of CSS elements according to company standarda
 - Run accessibility and light house score 

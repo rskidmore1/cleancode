@@ -7,6 +7,7 @@ A check list for making a pull request.
 - Review code in commits
    - Are variables names descriptive?
 - Rebase commits 
+  - TODO look up how to do this
 - Put Documentation on ticket or wiki
   - Explain what the feature does
   - Explain what the code is doing 

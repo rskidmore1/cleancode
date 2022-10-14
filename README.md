@@ -12,6 +12,10 @@ A check list for making a pull request.
   - Assign reviewer
 - Review code in commits
    - Are variables names descriptive?
+   - Are there any debug statements?
+   - Anything that needs an exception or error log?
+   - Are there any extra loops?
+   - Is there any extra pushing to an array?
 - Rebase commits 
   - TODO look up how to do this
 - Put Documentation on ticket or wiki

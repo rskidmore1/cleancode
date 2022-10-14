@@ -4,6 +4,10 @@ A check list for making a pull request.
 
 --------------------
 - Did I accomplish the objective of the ticket?
+- Tag and stages
+  - Link issue to PR on right bar
+  - Link PR to issue on right bar 
+  - Set issue to In Review (if not a draft)
 - Review code in commits
    - Are variables names descriptive?
 - Rebase commits 

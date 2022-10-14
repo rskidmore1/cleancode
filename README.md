@@ -9,6 +9,7 @@ A check list for making a pull request.
   - Link PR to issue on right bar 
   - Set issue to In Review (if not a draft)
   - Assign PR to myself
+  - Assign reviewer
 - Review code in commits
    - Are variables names descriptive?
 - Rebase commits 

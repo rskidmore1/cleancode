@@ -16,6 +16,7 @@ A check list for making a pull request.
    - Anything that needs an exception or error log?
    - Are there any extra loops?
    - Is there any extra pushing to an array?
+- Creating testing instructions
 - Rebase commits 
   - TODO look up how to do this
 - Put Documentation on ticket or wiki

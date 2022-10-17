@@ -13,7 +13,7 @@ A check list for making a pull request.
 - Review code in commits
    - Are variables names descriptive?
    - Are there any debug statements?
-   - Anything that needs an exception or error log?
+   - Anything that needs an `if` and exception or error log?
    - Are there any extra loops?
    - Is there any extra pushing to an array?
 - Creating testing instructions

@@ -3,6 +3,7 @@ A check list for making a pull request.
 
 
 --------------------
+### Frontend and backend 
 - Did I accomplish the objective of the ticket?
 - Tag and stages
   - Link issue to PR on right bar
@@ -26,3 +27,10 @@ A check list for making a pull request.
 - Is code formatted properly?
 - Assess order of CSS elements according to company standarda
 - Run accessibility and light house score 
+
+--------------------
+### Answer comments
+- Answer all comments
+  - Put Clarification
+  - Mark "Resolved"
+- Tag review with @ in comment (They will get an email that they have been mentioned.)

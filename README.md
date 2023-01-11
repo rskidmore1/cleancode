@@ -21,7 +21,7 @@ A check list for making a pull request.
    - Is there any extra pushing to an array?
 - Creating testing instructions
 - Rebase commits 
-  - TODO look up how to do this
+- Merge master 
 - Put Documentation on ticket or wiki
   - Explain what the feature does
   - Explain what the code is doing 

@@ -1,4 +1,4 @@
-# cleancode
+# clean PRs
 A check list for making a pull request.
 
 

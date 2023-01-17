@@ -15,6 +15,7 @@ A check list for making a pull request.
    - run `composer run lint` for symfony repos 
    - Are variables names descriptive?
    - Are there any debug statements?
+   - Restore needed files to master using `git checkout origin/master [filename]`
    - Is there any code that needs null checks?
    - Anything that needs an `if` and exception or error log?
    - Are there any extra loops?

@@ -30,7 +30,8 @@ A check list for making a pull request.
   - Explain what the code is doing 
 - Check for linting or console errors
 - Is code formatted properly?
-- Assess order of CSS elements according to company standarda
+- Assess order of CSS elements according to company standards
+  - alignment, spacing, sizing, colors 
 - Run accessibility and light house score 
 
 --------------------

@@ -19,6 +19,7 @@ A check list for making a pull request.
    - Are there any debug statements?
    - Restore needed files to master using `git checkout origin/master [filename]`
    - Is there any code that needs null checks?
+     - Or isset() for php
    - Anything that needs an `if` and exception or error log?
    - Are there any extra loops?
    - Is there any extra pushing to an array?

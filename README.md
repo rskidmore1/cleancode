@@ -14,7 +14,8 @@ A check list for making a pull request.
   - Assign PR to myself
   - Assign reviewer
 - Review code in commits
-   - run `composer run lint` for symfony repos 
+   - Trace code in debugger
+   - Run `composer run lint` for symfony repos 
    - Are variables names descriptive?
    - Are there any debug statements?
    - Restore needed files to master using `git checkout origin/master [filename]`
